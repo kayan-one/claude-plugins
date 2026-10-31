@@ -1,0 +1,13 @@
+{
+  "name": "kayan-one",
+  "owner": { "name": "Kayan One", "url": "https://kayan-one.com" },
+  "metadata": { "description": "إضافات Claude من منصة كيان للأعمال (Kayan One)" },
+  "plugins": [
+    {
+      "name": "kayan-sales",
+      "source": "./plugins/kayan-sales",
+      "description": "مبيعات كيان: تقرير الصبح، تحضير مكالمة العميل، المتابعة، مراجعة الصفقات، التحصيل، وتقرير المدير الأسبوعي على بيانات شركتك في كيان.",
+      "version": "1.0.0"
+    }
+  ]
+}

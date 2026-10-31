@@ -1,0 +1,8 @@
+{
+  "name": "kayan-sales",
+  "version": "1.0.0",
+  "description": "مبيعات كيان: تقرير الصبح، تحضير مكالمة العميل، رسالة المتابعة، مراجعة الصفقات والفرص، التحصيل وأعمار الديون، وتقرير المدير الأسبوعي، على بيانات شركتك في منصة كيان (Kayan One) وبصلاحياتك فيها.",
+  "author": { "name": "Kayan One", "url": "https://kayan-one.com" },
+  "homepage": "https://kayan-one.com",
+  "keywords": ["sales", "crm", "collections", "arabic", "kayan"]
+}

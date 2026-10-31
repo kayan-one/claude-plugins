@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kayan-one": {
+      "type": "http",
+      "url": "https://app.kayan-one.com/mcp"
+    }
+  }
+}
